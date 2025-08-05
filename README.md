@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Next.js+Expert+%E2%9A%A1;Full+Stack+Enthusiast+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A;Code+%2B+Coffee+%3D+Magic+%E2%98%95" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Next.js+Expert+%E2%9A%A1;Full+Stack+Enthusiast+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A;Code+%2B+Coffee+%3D+Magic+%E2%98%95" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasitha20025&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hasitha20025?label=Followers&style=for-the-badge&color=00d9ff&labelColor=black" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/hasitha20025?label=Stars&style=for-the-badge&color=00d9ff&labelColor=black" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=hasitha20025&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hasitha20025?label=Followers&style=for-the-badge&color=blue&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/hasitha20025?label=Stars&style=for-the-badge&color=yellow&labelColor=0D1117" alt="Stars" />
 </div>
 
 ---
@@ -201,7 +201,7 @@ const hasitha = new Developer();
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasitha20025&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasitha20025&theme=github-compact&hide_border=true&bg_color=ffffff&color=2f81f7&line=2f81f7&point=1a1b27" />
 </div>
 
 ## 🏆 Achievements & Trophies
@@ -284,7 +284,7 @@ const hasitha = new Developer();
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+coding!+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+coding!+%F0%9F%92%BB" />
 </div>
 
 <div align="center">
